@@ -4,3 +4,4 @@ google-cloud-logging
 google-cloud-secret-manager==2.5.0
 jsonschema==3.2.0
 pandas==1.2.4
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
